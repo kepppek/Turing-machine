@@ -1,0 +1,30 @@
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojAssemblyReference.cache
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.cache
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+K:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Form1.resources
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Form1.resources
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+F:\Университет\3,1\Теория алгоритмов\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.Cache
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.AssemblyReference.cache
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Form1.resources
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.cache
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\SuperPC\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
